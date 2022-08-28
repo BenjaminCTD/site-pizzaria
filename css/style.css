@@ -191,6 +191,10 @@ footer {
     padding: 5px;
 }
 
+.links_footer > a:hover {
+    color: greenyellow;
+}
+
 .imagem_footer {
     width: 50%;
     display: flex;
